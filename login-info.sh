@@ -39,7 +39,7 @@ echo -e "${WHITE}**                     Kubernetes DevOps Training Lab          
 echo -e "${RED}**              All connections are monitored and recorded                  **"
 echo -e "${GREEN}**      Please shutdown your instance when you are complete with your lab   **"
 echo -e "${GREEN}**        Disconnect IMMEDIATELY if you are not an authorized user!         **"
-echo -e "${GREEN}**   Feel free to contact Mr. Obi or Rotimi if you have any questions.      **"
+echo -e "${GREEN}**   Feel free to contact Solomon if you have any questions.                **"
 echo -e "${GREEN}**                                                                          **"
 echo -e "${WHITE}*****************************************************************************"
 
