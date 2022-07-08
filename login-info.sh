@@ -34,7 +34,7 @@ NC="\033[00m"
 
 echo -e "${WHITE}******************************************************************************"
 echo -e "${WHITE}**                                                                          **"
-echo -e "${WHITE}**      Welcome to KendOps. The place where dreams come true                **"
+echo -e "${WHITE}**      Welcome to KendOps. Our persion is your success                     **"
 echo -e "${WHITE}**                     Kubernetes DevOps Training Lab                       **"
 echo -e "${RED}**              All connections are monitored and recorded                  **"
 echo -e "${GREEN}**      Please shutdown your instance when you are complete with your lab   **"
